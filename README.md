@@ -7,9 +7,9 @@ WordPress/PHP Developer
 I've been working as a freelance WordPress theme and plugin developer since 2008. Since 2016 I've been teaching others to create their own plugins and themes through online courses and books.
 
 * 🌍  I'm based in Guarapuava, PR, Brazil
-* 🖥️  See my portfolio at [My Portfolio](http://www.marcelowebdesign.com)
+* 🖥️  See my portfolio at [this address](http://www.marcelowebdesign.com)
 * ✉️  You can contact me at [marceloquinze@gmail.com](mailto:marceloquinze@gmail.com)
-* 🧠  I'm learning Diving deeper into Object-oriented PHP and Javascript
+* 🧠  I'm currently having much fun diving deeper into Object-oriented PHP and Javascript
 
 <a href="https://www.github.com/marceloquinze" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
