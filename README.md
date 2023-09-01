@@ -31,7 +31,6 @@ src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for
 ### Socials
 
 <p align="left"> 
-$this->GitHub: <a href="https://www.github.com/marceloquinze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <br />
 Instagram: <a href="http://www.instagram.com/wpparadevs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <br />
 LinkedIn:  <a href="https://www.linkedin.com/in/marceloxvieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <br />
 Twitter: <a href="https://www.twitter.com/marcelaoxvieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <br />
