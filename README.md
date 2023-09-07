@@ -1,15 +1,15 @@
 Hi 👋 My name is Marcelo Vieira
 ===============================
 
-WordPress/PHP Developer
------------------------
-
-I've been working as a freelance WordPress theme and plugin developer since 2008. Since 2016 I've been teaching others to create their own plugins and themes through online courses and books.
+<h3 align="center">I'm a passionate freelance WordPress specialist from Brazil with over a decade of experience. Since 2016, I've been sharing my expertise through online courses and books, helping others create their own plugins and themes.</h3>
 
 * 🌍  I'm based in Guarapuava, PR, Brazil
-* 🖥️  See my portfolio at [this address](http://www.marcelowebdesign.com)
-* ✉️  You can contact me at [marceloquinze@gmail.com](mailto:marceloquinze@gmail.com)
-* 🧠  I'm currently having much fun diving deeper into Object-oriented PHP and Javascript
+* 🌱 I’m currently learning **Javascript, React JS, Laravel, Typescript**
+* 👨‍💻 Some of my projects are available at [https://marcelowebdesign.com/](https://marcelowebdesign.com/)
+*  📝 I regularly write articles on [https://www.codigowp.net](https://www.codigowp.net)
+*  💬 You can ask me all about **WordPress!**
+*  📫 How to reach me **marceloquinze@gmail.com**
+*  ⚡ Fun fact **I speak Modern Greek and play Brazilian viola caipira**
 
 <a href="https://www.github.com/marceloquinze" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
