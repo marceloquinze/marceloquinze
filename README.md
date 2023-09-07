@@ -8,8 +8,8 @@ Hi 👋 My name is Marcelo Vieira
 * 👨‍💻 Some of my projects are available at [https://marcelowebdesign.com/](https://marcelowebdesign.com/)
 *  📝 I regularly write articles on [https://www.codigowp.net](https://www.codigowp.net)
 *  💬 You can ask me all about **WordPress!**
-*  📫 How to reach me **marceloquinze@gmail.com**
-*  ⚡ Fun fact **I speak Modern Greek and play Brazilian viola caipira**
+*  📫 You can always reach me at **marceloquinze@gmail.com**
+*  ⚡ Fun fact: **I speak Modern Greek and play Brazilian viola caipira**
 
 <a href="https://www.github.com/marceloquinze" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
