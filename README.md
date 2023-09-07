@@ -16,15 +16,12 @@ src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for
 
 ## Connect with me:
 
-<p align="left">
-<a href="https://codepen.io/marceloquinze" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marceloquinze" height="30" width="40" /></a>
-<a href="https://twitter.com/marcelaoxvieira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcelaoxvieira" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marceloxvieira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marceloxvieira" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/marcelo-xavier-vieira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marcelo-xavier-vieira" height="30" width="40" /></a>
-<a href="https://instagram.com/wpparadevs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wpparadevs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@marceloxv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marceloxv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@marceloxvieira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marceloxv" height="30" width="40" /></a>  
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-marceloxvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marceloxvieira/)](https://linkedin.com/in/marceloxvieira/)
+[![Instagram Badge](https://img.shields.io/badge/-wpparadevs-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wpparadevs)](https://instagram.com/wpparadevs)
+[![Codepen Badge](https://img.shields.io/badge/-marceloquinze-purple?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/marceloquinze)](https://codepen.io/marceloquinze)
+[![Twitter Badge](https://img.shields.io/badge/-marcelaoxvieira-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marcelaoxvieira)](https://twitter.com/marcelaoxvieira)
+[![YouTube Badge](https://img.shields.io/badge/-wpparadevs-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@marceloxv)](https://www.youtube.com/@marceloxv)
+[![YouTube Badge](https://img.shields.io/badge/-wpparadevs-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@marceloxvieira)](https://www.youtube.com/@marceloxvieira)
 
 ## Languages and Tools
 
