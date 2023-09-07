@@ -20,8 +20,8 @@ src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for
 [![Instagram Badge](https://img.shields.io/badge/-wpparadevs-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wpparadevs)](https://instagram.com/wpparadevs)
 [![Codepen Badge](https://img.shields.io/badge/-marceloquinze-purple?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/marceloquinze)](https://codepen.io/marceloquinze)
 [![Twitter Badge](https://img.shields.io/badge/-marcelaoxvieira-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marcelaoxvieira)](https://twitter.com/marcelaoxvieira)
-[![YouTube Badge](https://img.shields.io/badge/-wpparadevs-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@marceloxv)](https://www.youtube.com/@marceloxv)
-[![YouTube Badge](https://img.shields.io/badge/-wpparadevs-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@marceloxvieira)](https://www.youtube.com/@marceloxvieira)
+[![YouTube Badge](https://img.shields.io/badge/-EN-US-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@marceloxv)](https://www.youtube.com/@marceloxv)
+[![YouTube Badge](https://img.shields.io/badge/-PT-BR-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@marceloxvieira)](https://www.youtube.com/@marceloxvieira)
 
 ## Languages and Tools
 
