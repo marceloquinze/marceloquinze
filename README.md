@@ -25,7 +25,8 @@ src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for
 
 ## Languages and Tools
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat-square&logo=wordpress)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-9b76d1?style=flat-square&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
