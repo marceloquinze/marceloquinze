@@ -26,6 +26,10 @@ src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for
 ## Languages and Tools
 
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat-square&logo=wordpress)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-9b76d1?style=flat-square&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -33,12 +37,8 @@ src="https://img.shields.io/github/followers/marceloquinze?logo=github&style=for
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=adobexd)
